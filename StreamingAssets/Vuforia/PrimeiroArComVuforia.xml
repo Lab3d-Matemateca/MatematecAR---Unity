@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="JogoDaVelha3D" size="50.000000 50.000000" />
+    <ImageTarget name="QRCode_Equicomponibilidade" size="50.000000 50.000000" />
+    <ImageTarget name="Vaca" size="1.000000 1.000000" />
+    <ImageTarget name="Frango" size="1.000000 1.000000" />
+    <ImageTarget name="Cavalo" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>

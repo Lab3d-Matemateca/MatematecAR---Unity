@@ -1,0 +1,118 @@
+# --- Unity ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# --- Visual Studio / Rider ---
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# --- Unity Asset Store / Cache ---
+AssetStoreTools*
+*.unitypackage
+*.bak
+*.orig
+
+# --- Autogerados / Sistema ---
+sysinfo.txt
+*.stackdump
+*.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Builds / Distribuição ---
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.app
+*.ipa
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.mdb
+*.mp4
+*.mov
+*.zip
+
+# --- Test Runner / Profiler ---
+*.pidb.meta
+*.booproj.meta
+*.svd
+*.clog
+
+# --- Collaborate / Plastic SCM ---
+.collab/
+PlasticSCM/
+
+# --- Crash reports / Debug ---
+sysinfo.txt
+*.stackdump
+crash/
+
+# --- Shader cache ---
+ShaderCache/
+
+# --- Gradle ---
+.gradle/
+gradle/
+*.gradle
+gradlew
+gradlew.bat
+
+# --- Android Studio ---
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# --- JetBrains Rider ---
+.idea/
+*.iml
+out/
+
+# --- Addressables ---
+/ServerData/
+/AssetBundles/
+
+# --- Other ---
+*.p12
+*.key
+*.pem
+*.cer
+*.mobileprovision
+*.keystore
+*.jks
+
+# Plastic SCM
+.plastic/
+
+# Unity temporários e builds
+.utmp/
+ContentPackages/
+Image tracking_BurstDebugInformation_DoNotShip/
+mat_Data/
+mat.x86_64
+ignore.conf
+libdecor-0.so.0
